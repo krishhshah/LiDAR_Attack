@@ -85,3 +85,13 @@ After generating the point clouds, you can visualize them using the following me
 If you are interesting in our debugging steps, here's a link to them (You will need to request access):
 
 https://docs.google.com/document/d/1Fr_Idts9S9zXjNjtjk52LKdN6SMWoaHAsZZ5uUXirLk/edit?usp=sharing
+
+## Citations
+
+Code has been taken and based from the following repositories (NOT ALL CODE IS OUR OWN):
+
+https://github.com/open-mmlab/OpenPCDet
+
+https://github.com/chaomath/open3d-kitti-visualization
+
+https://github.com/Eaphan/Robust3DOD
