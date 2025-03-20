@@ -78,3 +78,10 @@ After generating the point clouds, you can visualize them using the following me
         * `--cfg_file`: Specifies the configuration file for the SECOND model.
         * `--ckpt`: Specifies the path to the trained SECOND model checkpoint.
         * `--data_path`: Specifies the path to the directory containing the point cloud data.
+     
+
+## Debugging Log
+
+If you are interesting in our debugging steps, here's a link to them (You will need to request access):
+
+https://docs.google.com/document/d/1Fr_Idts9S9zXjNjtjk52LKdN6SMWoaHAsZZ5uUXirLk/edit?usp=sharing
