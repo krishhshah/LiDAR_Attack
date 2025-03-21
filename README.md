@@ -46,9 +46,10 @@ Within the Docker container, use the following commands to generate adversarial 
 
 * **Generate Attack + Defense Point Clouds:**
     ```bash
-    python3 attack.py --cfg_file cfgs/kitti_models/second.yaml --ckpt second.pth --save_to_file --save_points --eps 0.1 --defense
+    python3 attack.py --cfg_file cfgs/kitti_models/second.yaml --ckpt second.pth --save_to_file --save_points --eps 0.1 --defense --d_type gaussian
     ```
     * `--defense`: Enables the defense mechanism during attack generation.
+    * `--d_type`: Must choose which defense type. Currently implemented options: `gaussian`
 
 ## Visualizing Point Clouds
 
